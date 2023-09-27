@@ -48,4 +48,4 @@ My name is Wojtek and I'm a Computer Science student at the [University of Gdań
 
 
 ### 📫 Contact
-[E-mail](mailto:wojciech.maciej.gola@wp.pl) | [GitLab](https://gitlab.com/w_gola) | [LinkedIn](https://www.linkedin.com/in/wgola26)
+[E-mail](mailto:wgola26@gmail.com) | [GitLab](https://gitlab.com/w_gola) | [LinkedIn](https://www.linkedin.com/in/wgola26)
