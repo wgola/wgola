@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Wojtek and I'm a Computer Science student at the [University of Gdańsk](https://ug.edu.pl/).
+My name is Wojtek, I'm a Computer Science student at the [University of Gdańsk](https://ug.edu.pl/) and Junior Fullstack Developer at Lufthansa Systems.
 
 ### 💻 Known technologies
 
